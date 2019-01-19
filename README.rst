@@ -1,3 +1,6 @@
+/usr/local/lib/python2.7/dist-packages/biplist/__init__.py 
+line 579: #raise ValueError('Unable to get ascii or utf_16_be encoding for %s' % repr(value))
+
 isign
 =====
 
